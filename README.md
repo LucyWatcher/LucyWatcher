@@ -23,7 +23,7 @@
   
   When I work on my portfolio, I usually do so for 10+ hours, reading documentation, taking notes, or writing code all day. Since I started my portfolio, most of my weekends have been spent coding. I hope my aggressive efforts and a decent portfolio might be enough to let me begin an entry-level coding job despite the fact that I have not gone to college. 
   
-  I am very new to GitHub, but I am learning it now, as part of my journey!
+  I am very new to GitHub, but I am learning it now, as part of my journey! I will slowly host more and more parts of my portfolio on GitHub as I learn the interface and near the completion of my portfolio.
   
 # Otherwise!;
   I'm 19. My favorite color is lavender.
