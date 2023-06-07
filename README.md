@@ -1,4 +1,4 @@
-# Stuff I Know So Far:
+# Stuff
 
 + Python
     + Django
@@ -18,14 +18,8 @@
     + Live Sound Logistics / Tools
     + Sound Synthesis/Math
 
-# About Lucy M.G. Watcher:
-  **I want a job doing something meaningful, where I have to solve problems, and coding seems like a path for that**. Over the past few months, I have been learning Django, NGINX, Linux, JS/ECMAScript, GitHub, and AWS deployment. My goal is to host a Portfolio site with a few demo apps entirely on my own. I want the site to demonstrate my new skills, as well as my ability to learn and/or understand documentation quickly. 
-  
-  When I work on my portfolio, I usually do so for 10+ hours, reading documentation, taking notes, or writing code all day. Since I started my portfolio, most of my weekends have been spent coding. I hope my aggressive efforts and a decent portfolio might be enough to let me begin an entry-level coding job despite the fact that I have not gone to college. 
-  
-  I am very new to GitHub, but I am learning it now, as part of my journey! I will slowly host more and more parts of my portfolio on GitHub as I learn the interface and near the completion of my portfolio.
-  
-# Otherwise!;
+# About
+
   I'm 19. My favorite color is lavender.
   
   I started out coding, many years ago, by writing batch-file games or messing with [scratch.mit.edu](https://scratch.mit.edu/). Eventually, I started learning python and web development.
